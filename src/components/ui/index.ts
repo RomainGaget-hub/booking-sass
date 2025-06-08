@@ -37,6 +37,16 @@ export {
   SheetTitle,
   SheetDescription,
 } from './sheet';
+export {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+  DialogFooter,
+  DialogClose,
+} from './dialog';
 
 // Re-export utility function for component composition
 export { cn } from '@/lib/utils';
